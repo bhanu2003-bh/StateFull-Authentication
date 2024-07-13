@@ -1,0 +1,64 @@
+.auth {
+    background-color: #dddddd;
+    color: black;
+    height: 600px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 500px;
+    font-family:cursive;
+    border-radius: 6px;
+  }
+  
+  .auth:hover {
+    box-shadow: 0px 0px 10px 0px black; /* Adjust the values as needed */
+  }
+  
+  .fname{
+    border-radius: 6px;
+    box-shadow: 0px 0px 10px 0px black; 
+  }
+  
+  .first{
+    margin-top: 10px;
+    margin-bottom:50px ;
+  }
+  
+  .second{
+    margin-top: 10px;
+    margin-bottom:50px ;
+  }
+  
+  .third{
+    margin-top: 10px;
+    margin-bottom:50px ;
+  }
+  
+  .fourth{
+    margin-bottom: 50px;
+  }
+  
+  .email{
+    width: 200px;
+    height: 20px;
+    box-shadow: 0px 0px 10px 0px black; 
+    border-radius: 6px;
+  }
+  
+  .password{
+    width: 180px;
+    height: 20px;
+    box-shadow: 0px 0px 10px 0px black; 
+    border-radius: 6px;
+  }
+  
+  .submit{
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+    background-color: #301934;
+    color: #dddddd;
+  }
+  
+  .submit:hover{
+    box-shadow: 0px 0px 10px 0px #818181; 
+  }

@@ -1,0 +1,45 @@
+.home{
+    background-color: #dddddd;
+    color: black;
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 500px;
+    font-family:cursive;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.home:hover{
+    box-shadow: 0px 0px 10px 0px black; 
+}
+
+.signup_redirect{
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+    margin: 70px;
+    background-color: #301934;
+    color: #dddddd;
+  }
+  
+  .signup_redirect:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0px 0px 10px 0px black; 
+  }
+
+  .login_redirect{
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+    margin-top: 70px;
+    background-color: #301934;
+    color: #dddddd; 
+  }
+
+ .login_redirect:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0px 0px 10px 0px black; 
+ } 
